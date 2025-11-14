@@ -2,7 +2,8 @@ This project uses LangChain to build a research assistant that can query Wikiped
 
 ## Features
 - Wikipedia search tool
-- Calculator tool
+- Image processing tool
+- Summarize tool
 - Conversational memory
 - OpenAI-powered agent
 
